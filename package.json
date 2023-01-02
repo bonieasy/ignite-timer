@@ -1,6 +1,6 @@
 {
-  "name": "02-ignite-timer",
   "homepage": "https://bonieasy.github.io/ignite-timer",
+  "name": "02-ignite-timer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
