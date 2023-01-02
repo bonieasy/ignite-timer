@@ -7,8 +7,8 @@ Application that helps you focus in work sessions and stave off mental fatigue.
 
 Click <a href="https://bonieasy.github.io/ignite-timer/" target="_blank"> here </a> to access
 
-<img src="./assets/timer.png" width="680px" >
-<img src="./assets/history.png" width="680px" >
+<img src="../assets/timer.png" width="680px" >
+<img src="../assets/history.png" width="680px" >
 
 ## Tech Stack
 
