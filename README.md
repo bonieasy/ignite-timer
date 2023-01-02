@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ignite Timer</h1>
 
-Activity performed during the ReactJS specialization course. With <a href="https://lp.rocketseat.com.br/ignite" target="_blank"> Rocketseat </a> :rocket:
+Activity performed during the ReactJS specialization course - with <a href="https://lp.rocketseat.com.br/ignite" target="_blank"> Rocketseat </a> :rocket:
 <br>
 Application that helps you focus in work sessions and stave off mental fatigue.
 
